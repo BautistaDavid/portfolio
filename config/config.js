@@ -53,16 +53,6 @@ export const about = {
 }
 
 
-export const work = {
-	title: "Experiencia...",
-	cards: [
-		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
-			icons: null,
-		},
-	],
-}
 
 export const projects = {
 	title: "Proyectos",
