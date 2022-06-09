@@ -55,14 +55,13 @@ export const about = {
 
 export const work = {
 	title: "What I do",
-	description: "dada",
-	// cards: [
-	// 	{
-	// 		title: "Mobile App Development",
-	// 		description: "I create pixel perfect iOS and Andriod apps using Flutter.",
-	// 		icons: null,
-	// 	},
-	// ],
+	cards: [
+		{
+			title: "Mobile App Development",
+			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			icons: null,
+		},
+	],
 }
 
 export const projects = {
@@ -102,6 +101,22 @@ export const projects = {
 }
 
 
+export const contact = {
+	title: "Get in touch",
+	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	buttons: [
+		{
+			title: "Email Me",
+			link: "mailto:hashirshoaeb@gmail.com",
+			isPrimary: true,
+		},
+		{
+			title: "Schedule Meeting",
+			link: "",
+			isPrimary: false,
+		},
+	]
+}
 
 // SEARCH ENGINE 
 export const SEO = {
