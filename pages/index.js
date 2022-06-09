@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import { Nav } from '../components/Navbar';
 import { Intro, About } from '../components/Intro';
 import { Skills, Projects } from '../components/Work';
-import { Contact, Footer } from '../components/Footer';
+import { Footer, Contact } from '../components/Footer';
 import { about, contact, intro, navigation, projects, SEO, work } from '../config/config';
 import { Header } from '../components/Header';
 
@@ -37,8 +37,6 @@ export default function Home() {
         description={contact.description}
         contact={contact.buttons}
       />
-
-
       <Footer />
     </Fragment>
   );
