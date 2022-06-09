@@ -26,7 +26,7 @@ export const intro = {
 		" Bautista "
 	],
 	description: [
-		"Economista - Universidad Santo Tomas - Bogota.D.C, Colombia."
+		"Economista - Ciencia de datos - Programación"
 	],
 
 	image: profile.src,
@@ -105,7 +105,7 @@ export const projects = {
 
 
 export const extra = {
-	title: "Proyectos_extra",
+	title: "Mis Habilidades",
 	cards: [
 		{
 			title: "Geihdanepy",
@@ -125,6 +125,16 @@ export const extra = {
 				{
 					icon: faGithub,
 					link: "https://github.com/BautistaDavid/MLxLabour_Economics",
+				},
+			]
+		},
+		{
+			title: "Portfolio",
+			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/hashirshoaeb/portfolio",
 				},
 			]
 		},
