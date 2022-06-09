@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link'
 
-export const Contact = ({ title, description, buttons }) => {
+export const Contact = ({ title, description }) => {
 	return (
 		<div id="contact" className="bg-white py-5 px-5">
 			<div className="container">

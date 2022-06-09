@@ -61,18 +61,18 @@ export const contact = {
 		"             ",
 		"Así mismo este espacio me permitió desarrollar habilidades alrededor del mundo de los lenguajes de programación, adquiriendo y reforzando el uso de algunos de estos como Python y R, por otro lado, también el uso de plataformas y tecnologías tales como GitHub, Jupyter entre otras. "
 	],
-	buttons: [
-		{
-			title: "Email Me",
-			link: "mailto:hashirshoaeb@gmail.com",
-			isPrimary: true,
-		},
-		{
-			title: "Schedule Meeting",
-			link: "",
-			isPrimary: false,
-		},
-	]
+	// buttons: [
+	// 	{
+	// 		title: "Email Me",
+	// 		link: "mailto:hashirshoaeb@gmail.com",
+	// 		isPrimary: true,
+	// 	},
+	// 	{
+	// 		title: "Schedule Meeting",
+	// 		link: "",
+	// 		isPrimary: false,
+	// 	},
+	// ]
 }
 
 
