@@ -15,7 +15,7 @@ export const navigation = {
 			link: "#projects",
 		},
 		{
-			title: "Links",
+			title: "Mi Blog",
 			link: "/links",
 		},
 	],
@@ -61,18 +61,6 @@ export const contact = {
 		"             ",
 		"Así mismo este espacio me permitió desarrollar habilidades alrededor del mundo de los lenguajes de programación, adquiriendo y reforzando el uso de algunos de estos como Python y R, por otro lado, también el uso de plataformas y tecnologías tales como GitHub, Jupyter entre otras. "
 	],
-	// buttons: [
-	// 	{
-	// 		title: "Email Me",
-	// 		link: "mailto:hashirshoaeb@gmail.com",
-	// 		isPrimary: true,
-	// 	},
-	// 	{
-	// 		title: "Schedule Meeting",
-	// 		link: "",
-	// 		isPrimary: false,
-	// 	},
-	// ]
 }
 
 
@@ -91,6 +79,7 @@ export const projects = {
 				},
 			]
 		},
+
 		{
 			title: "Labour Economics Web App",
 			description: "Una aplicación web que presenta modelos de Machine Learning que buscan predecir la probabilidad de que una persona este empleada en el contexto colombiano, esto usando datos de la Gran Encuesta Integrada De Hogares.",
@@ -113,6 +102,49 @@ export const projects = {
 		},
 	],
 }
+
+
+export const extra = {
+	title: "Proyectos_extra",
+	cards: [
+		{
+			title: "Geihdanepy",
+			description: "Un módulo de Python código abierto creado con el fin de que las personas puedan acceder de forma más ágil a la información de la Gran Encuesta Integrada De Hogares del DANE en Colombia.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/BautistaDavid/geihdanepy",
+				},
+			]
+		},
+
+		{
+			title: "Labour Economics Web App",
+			description: "Una aplicación web que presenta modelos de Machine Learning que buscan predecir la probabilidad de que una persona este empleada en el contexto colombiano, esto usando datos de la Gran Encuesta Integrada De Hogares.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/BautistaDavid/MLxLabour_Economics",
+				},
+			]
+		},
+		{
+			title: "Portfolio",
+			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/hashirshoaeb/portfolio",
+				},
+			]
+		},
+	],
+}
+
+
+
+
+
 
 
 // SEARCH ENGINE 
