@@ -52,21 +52,31 @@ export const about = {
 	],
 }
 
+
+
 export const work = {
-	title: "What I do",
-	cards: [
-		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
-			icons: null,
-		},
-		{
-			title: "Web Development",
-			description: "I create responsive static websites using Reactjs.",
-			icons: null,
-		}
+	title: "¿Quien Soy?",
+	description: [
+		"Soy un economista de la Universidad Santo Tomas, interesado por la ciencia de datos especialmente en los procesos de análisis e interpretación de datos. Así mismo considero que mi conocimiento y formación académica construida como economista me permite la implementación del componente de análisis crítico más allá del simple manejo de datos.",
+		"Al mismo tiempo que realizaba mi formación profesional como economista me interese por el mundo de los lenguajes de programación, estos me han permitido combinar mi pasión por la economía y el análisis de datos. Actualmente los lenguajes de programación que mas uso orientados a la ciencia y análisis de datos son Python y R."
 	],
 }
+
+// export const work = {
+// 	title: "What I do",
+// 	cards: [
+// 		{
+// 			title: "Mobile App Development",
+// 			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+// 			icons: null,
+// 		},
+// 		{
+// 			title: "Web Development",
+// 			description: "I create responsive static websites using Reactjs.",
+// 			icons: null,
+// 		}
+// 	],
+// }
 
 export const projects = {
 	title: "Proyectos",
