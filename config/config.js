@@ -47,10 +47,29 @@ export const intro = {
 export const about = {
 	title: "¿Quien Soy?",
 	description: [
+		"	",
 		"Soy un economista de la Universidad Santo Tomas, interesado por la ciencia de datos especialmente en los procesos de análisis e interpretación de datos. Así mismo considero que mi conocimiento y formación académica construida como economista me permite la implementación del componente de análisis crítico más allá del simple manejo de datos.",
 		"Al mismo tiempo que realizaba mi formación profesional como economista me interese por el mundo de los lenguajes de programación, estos me han permitido combinar mi pasión por la economía y el análisis de datos. Actualmente los lenguajes de programación que mas uso orientados a la ciencia y análisis de datos son Python y R."
 	],
 }
+
+export const contact = {
+	title: "Mi Experiencia...",
+	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	buttons: [
+		{
+			title: "Email Me",
+			link: "mailto:hashirshoaeb@gmail.com",
+			isPrimary: true,
+		},
+		{
+			title: "Schedule Meeting",
+			link: "",
+			isPrimary: false,
+		},
+	]
+}
+
 
 
 
@@ -90,22 +109,6 @@ export const projects = {
 	],
 }
 
-export const contact = {
-	title: "Get in touch",
-	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
-	buttons: [
-		{
-			title: "Email Me",
-			link: "mailto:hashirshoaeb@gmail.com",
-			isPrimary: true,
-		},
-		{
-			title: "Schedule Meeting",
-			link: "",
-			isPrimary: false,
-		},
-	]
-}
 
 // SEARCH ENGINE 
 export const SEO = {
@@ -118,7 +121,10 @@ export const SEO = {
 export const links = {
 	image: profile.src,
 	title: "David Felipe Bautista",
-	description: "Economista",
+	description: [
+		"Economista",
+		"dfbau2002@gmail.com"
+	],
 	cards: [
 		{
 			title: "GitHub",
@@ -133,11 +139,11 @@ export const links = {
 			link: "https://starbook.dev/",
 		},
 		{
-			title: "Mi Blog ",
-			link: "https://github.com/BautistaDavid/",
+			title: "Email Me",
+			link: "mailto:dfbau2002@gmail.com",
 		},
 		{
-			title: "My LinkedIn",
+			title: "Mi Blog",
 			link: "https://www.linkedin.com/in/hashirshoaeb/",
 		},
 	]
