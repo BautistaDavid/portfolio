@@ -55,13 +55,14 @@ export const about = {
 
 export const work = {
 	title: "What I do",
-	cards: [
-		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
-			icons: null,
-		},
-	],
+	description: "dada",
+	// cards: [
+	// 	{
+	// 		title: "Mobile App Development",
+	// 		description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+	// 		icons: null,
+	// 	},
+	// ],
 }
 
 export const projects = {
