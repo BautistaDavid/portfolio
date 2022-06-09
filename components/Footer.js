@@ -7,28 +7,17 @@ export const Contact = ({ title, description, buttons }) => {
 			<div className="container">
 				<h1 className="text-primary fw-bold">{title}</h1>
 				<div className="px-sm-5">
-					<p>{description}</p>
-					<div className="">
-						{buttons.map((value, index) => (
-							(value.isPrimary) ?
-								<Link key={index} href={value.link}>
-									<a className="btn btn-primary my-1 mx-3">
-										{value.title}
-									</a>
-								</Link>
-								:
-								<Link key={index} href={value.link}>
-									<a className="btn btn-outline-primary my-1 mx-3">
-										{value.title}
-									</a>
-								</Link>
-						))}
-					</div>
+					{description.map((value, index) => (
+						<p key={index} >{value}</p>
+					))}
 				</div>
 			</div>
 		</div>
 	);
 }
+
+
+
 
 export const Footer = () => {
 	return (
