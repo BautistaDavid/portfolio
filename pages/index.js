@@ -24,14 +24,14 @@ export default function Home() {
         title={about.title}
         description={about.description}
       />
-      <Projects
-        title={projects.title}
-        cards={projects.cards}
-      />
       <Contact
         title={contact.title}
         description={contact.description}
         buttons={contact.buttons}
+      />
+      <Projects
+        title={projects.title}
+        cards={projects.cards}
       />
       <Footer />
     </Fragment>
