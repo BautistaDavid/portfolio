@@ -16,7 +16,7 @@ export const Contact = ({ title, description }) => {
 	);
 }
 
-
+// aqui podria insertar algo nuevo para colocar cartas de habilidades, tocaria crearlo aca y en pages/index.js y config.config/js
 
 
 export const Footer = () => {

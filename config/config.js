@@ -49,8 +49,8 @@ export const about = {
 	description: [
 		"	",
 		" ",
-		"Soy un economista de la Universidad Santo Tomas, interesado por la ciencia de datos especialmente en los procesos de análisis e interpretación de datos. Así mismo considero que mi conocimiento y formación académica construida como economista me permite la implementación del componente de análisis crítico más allá del simple manejo de datos.",
-		"Al mismo tiempo que realizaba mi formación profesional como economista me interese por el mundo de los lenguajes de programación, estos me han permitido combinar mi pasión por la economía y el análisis de datos. Actualmente los lenguajes de programación que mas uso orientados a la ciencia y análisis de datos son Python y R."
+		"Soy un economista de la Universidad Santo Tomas, interesado por la ciencia de datos especialmente en los procesos de análisis e interpretación de datos, considero que mi conocimiento y formación académica construida como economista me permite la implementación del componente de análisis crítico más allá del simple manejo de datos. Al mismo tiempo que realizaba mi formación profesional como economista me interese por el mundo de los lenguajes de programación, estos me han permitido combinar mi pasión por la economía y el análisis de datos.",
+		"Esta combinación entre la ciencia económica y el apropiamiento de herramientas tecnológicas y lenguajes de programación me permiten ser proactivo ante la búsqueda de uno de los objetivos principales que me impone ser un científico de datos, el cual es transformar datos crudos en información útil para la toma de decisiones."
 	],
 }
 
