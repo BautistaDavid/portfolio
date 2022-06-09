@@ -123,7 +123,7 @@ export const links = {
 	title: "David Felipe Bautista",
 	description: [
 		"Economista",
-		"dfbau2002@gmail.com"
+		" | dfbau2002@gmail.com"
 	],
 	cards: [
 		{
