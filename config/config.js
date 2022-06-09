@@ -58,6 +58,7 @@ export const contact = {
 	title: "Mi Experiencia...",
 	description: [
 		"Desde el año 2020 mientras realizaba mis estudios de pregrado en economía hice parte del semillero de investigación de economía computacional de la Universidad Santo Tomas, para el año 2022 fue líder de este mismo, durante este tiempo este espacio de investigación me permitió desarrollar proyectos relacionados a análisis de datos, Algoritmos de Machine Learning , técnicas de extracción de datos como el Web Scraping, modelamiento econométrico apoyado en lenguajes de programación, construcción de bibliotecas de código libre, entre otro, todo esto orientado desde una perspectiva donde se logren analizar problemas propios de la Economía como ciencia.",
+		"             ",
 		"Así mismo este espacio me permitió desarrollar habilidades alrededor del mundo de los lenguajes de programación, adquiriendo y reforzando el uso de algunos de estos como Python y R, por otro lado, también el uso de plataformas y tecnologías tales como GitHub, Jupyter entre otras. "
 	],
 	buttons: [
