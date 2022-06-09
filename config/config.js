@@ -48,6 +48,7 @@ export const about = {
 	title: "¿Quien Soy?",
 	description: [
 		"	",
+		" ",
 		"Soy un economista de la Universidad Santo Tomas, interesado por la ciencia de datos especialmente en los procesos de análisis e interpretación de datos. Así mismo considero que mi conocimiento y formación académica construida como economista me permite la implementación del componente de análisis crítico más allá del simple manejo de datos.",
 		"Al mismo tiempo que realizaba mi formación profesional como economista me interese por el mundo de los lenguajes de programación, estos me han permitido combinar mi pasión por la economía y el análisis de datos. Actualmente los lenguajes de programación que mas uso orientados a la ciencia y análisis de datos son Python y R."
 	],
@@ -55,7 +56,10 @@ export const about = {
 
 export const contact = {
 	title: "Mi Experiencia...",
-	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	description: [
+		"Desde el año 2020 mientras realizaba mis estudios de pregrado en economía hice parte del semillero de investigación de economía computacional de la Universidad Santo Tomas, para el año 2022 fue líder de este mismo, durante este tiempo este espacio de investigación me permitió desarrollar proyectos relacionados a análisis de datos, Algoritmos de Machine Learning , técnicas de extracción de datos como el Web Scraping, modelamiento econométrico apoyado en lenguajes de programación, construcción de bibliotecas de código libre, entre otro, todo esto orientado desde una perspectiva donde se logren analizar problemas propios de la Economía como ciencia.",
+		"Así mismo este espacio me permitió desarrollar habilidades alrededor del mundo de los lenguajes de programación, adquiriendo y reforzando el uso de algunos de estos como Python y R, por otro lado, también el uso de plataformas y tecnologías tales como GitHub, Jupyter entre otras. "
+	],
 	buttons: [
 		{
 			title: "Email Me",
