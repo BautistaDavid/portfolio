@@ -1,6 +1,6 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faGooglePlay, faBook } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faGithub, faGooglePlay, faGoogle } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
@@ -95,7 +95,7 @@ export const projects = {
 			description: "Un blog para presentar diferentes proyectos que he ralizado.",
 			icons: [
 				{
-					icon: faBook,
+					icon: faGoogle,
 					link: "https://github.com/hashirshoaeb/portfolio",
 				},
 			]
