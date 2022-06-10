@@ -144,22 +144,8 @@ export const extra = {
 				},
 			]
 		},
-		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
-			icons: [
-				{
-					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
-				},
-			]
-		},
 	],
 }
-
-
-
-
 
 
 
