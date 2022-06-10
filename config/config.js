@@ -74,9 +74,13 @@ export const projects = {
 			description: "Un módulo de Python código abierto creado con el fin de que las personas puedan acceder de forma más ágil a la información de la Gran Encuesta Integrada De Hogares del DANE en Colombia.",
 			icons: [
 				{
+					icon: faGoogle,
+					link: "https://pypi.org/project/geihdanepy/",
+				},
+				{
 					icon: faGithub,
 					link: "https://github.com/BautistaDavid/geihdanepy",
-				},
+				}
 			]
 		},
 
@@ -85,6 +89,10 @@ export const projects = {
 			description: "Una aplicación web que presenta modelos de Machine Learning que buscan predecir la probabilidad de que una persona este empleada en el contexto colombiano, esto usando datos de la Gran Encuesta Integrada De Hogares.",
 			icons: [
 				{
+					icon: faGoogle,
+					link: "https://github.com/BautistaDavid/MLxLabour_Economics",
+				},
+				{
 					icon: faGithub,
 					link: "https://github.com/BautistaDavid/MLxLabour_Economics",
 				},
@@ -92,10 +100,14 @@ export const projects = {
 		},
 		{
 			title: "Mi Blog",
-			description: "Un blog para presentar diferentes proyectos que he ralizado.",
+			description: "Un blog personal para publicar y compartir diferentes proyectos que he ralizado realcionado a analizis de datos, contruccion de clases con python, uso de frameworks de python como streamlit para hacer deployment de modelos, ejercicios con R, entre otros.",
 			icons: [
 				{
 					icon: faGoogle,
+					link: "https://github.com/BautistaDavid/MLxLabour_Economics",
+				},
+				{
+					icon: faGithub,
 					link: "https://github.com/hashirshoaeb/portfolio",
 				},
 			]
