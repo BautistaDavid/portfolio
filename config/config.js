@@ -120,14 +120,8 @@ export const extra = {
 	title: "Mis Habilidades",
 	cards: [
 		{
-			title: "Geihdanepy",
-			description: "Un módulo de Python código abierto creado con el fin de que las personas puedan acceder de forma más ágil a la información de la Gran Encuesta Integrada De Hogares del DANE en Colombia.",
-			icons: [
-				{
-					icon: faGithub,
-					link: "https://github.com/BautistaDavid/geihdanepy",
-				},
-			]
+			title: "Python",
+			description: "Dentro del manejo de python destaco el uso de diferentes modulos utiles para ciencia de datos como Matplotlib, Seaborn, Sikit-Learn, numpy, pandas",
 		},
 
 		{
