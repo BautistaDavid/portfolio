@@ -1,6 +1,6 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faGithub, faGooglePlay, faBook } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
@@ -91,11 +91,11 @@ export const projects = {
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "Mi Blog",
+			description: "Un blog para presentar diferentes proyectos que he ralizado.",
 			icons: [
 				{
-					icon: faGithub,
+					icon: faBook,
 					link: "https://github.com/hashirshoaeb/portfolio",
 				},
 			]
