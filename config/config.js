@@ -125,7 +125,7 @@ export const extra = {
 		},
 
 		{
-			title: "Labour Economics Web App",
+			title: "Analisis de Datos",
 			description: "Una aplicación web que presenta modelos de Machine Learning que buscan predecir la probabilidad de que una persona este empleada en el contexto colombiano, esto usando datos de la Gran Encuesta Integrada De Hogares.",
 			icons: [
 				{
