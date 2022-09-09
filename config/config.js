@@ -16,7 +16,7 @@ export const navigation = {
 		},
 		{
 			title: "Mi Blog",
-			link: "/links",
+			link: "https://bautistadavid.github.io/DavidBautista_Blog",
 		},
 	],
 }
