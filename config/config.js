@@ -175,7 +175,7 @@ export const links = {
 		},
 		{
 			title: "LinkedIn",
-			link: "https://starbook.dev/",
+			link: "https://www.linkedin.com/in/david-felipe-bautista-bernal",
 		},
 		{
 			title: "Email Me",
@@ -183,7 +183,7 @@ export const links = {
 		},
 		{
 			title: "Mi Blog",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			link: "https://bautistadavid.github.io/DavidBautista_Blog",
 		},
 	]
 }
