@@ -120,13 +120,13 @@ export const extra = {
 	title: "Mis Habilidades",
 	cards: [
 		{
-			title: "Python",
-			description: "Dentro del manejo de python destaco el uso de diferentes modulos utiles para ciencia de datos como Matplotlib, Seaborn, Sikit-Learn, numpy, pandas",
+			title: "Lenguajes de Programación y Herramientas Tecnológicas",
+			description: "El manejo de lenguajes de programación tales como Python y R además de diferentes programas informáticos estándar para manejo de datos me permiten desarrollar tareas cuantitativas y de análisis de datos e información en diferentes contextos. ",
 		},
 
 		{
 			title: "Analisis de Datos",
-			description: "Una aplicación web que presenta modelos de Machine Learning que buscan predecir la probabilidad de que una persona este empleada en el contexto colombiano, esto usando datos de la Gran Encuesta Integrada De Hogares.",
+			description: "He desarrollado la capacidad de análisis de datos apoyado desde una visión teórica extraída de las ciencias económicas y complementada con el uso de tecnologías y lenguajes de programación en pro de dar desarrollo a estudios en diferentes contextos.",
 			icons: [
 				{
 					icon: faGithub,
@@ -135,8 +135,8 @@ export const extra = {
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "Comunicación y Trabajo en Equipo",
+			description: "El ambiente académico me ha permitido desarrollar habilidades comunicativas y de trabajo en equipo cumpliendo roles tanto de par académico como liderando proyectos de estudio dentro de la facultad de Economía.",
 			icons: [
 				{
 					icon: faGithub,
