@@ -38,7 +38,7 @@ export const intro = {
 		},
 		{
 			title: "Currículum",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1mEzY9Aj0CSkpYp1qTjanXlvOVq301V5P/view",
 			isPrimary: false,
 		},
 	],
